@@ -1,5 +1,5 @@
 Purpose:
-- Learning Artificial Intelligence
+- Learning AI
 
 Programming Languages:
 - Python (apploximately 95%)
