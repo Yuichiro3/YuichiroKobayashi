@@ -1,2 +1,2 @@
 # Purpose: 
- - Using Logistic Regression model to build algorithm for fraud detection
+ - Using a Logistic Regression model to build a fraud detection algorithm.
