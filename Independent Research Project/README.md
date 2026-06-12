@@ -1,4 +1,4 @@
-# Serendipity Experience Detection in Amazon Online Reviews with Support Vector Machnie and Convolutional Neural Network
+# Serendipity Experience Detection in Amazon Online Reviews with Support Vector Machine and Convolutional Neural Network
 
 ## Project Overview
 Investigating **serendipitous recommender systems** is becoming a common trend in **Artificial Intelligence (AI)** research to provide serendipitous recommendations for consumers. 
