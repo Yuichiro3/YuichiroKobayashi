@@ -132,20 +132,31 @@ To be written
 
 ## Acknowledgement
 First and foremost, I would like to thank the researchers who made the publicly available dataset (**SerenLens**) used in this study. 
-
 I wish to give special thanks to **my supervisor** at the University of York for his constant support, which helped refine this independent research project. 
-
 Additionally, I am deeply grateful to **my former supervisor** at Doshisha University, who first sparked my interest in consumer behaviour in commerce.  
-
 Furthermore, I am grateful to **my fellow students** for their advice, which fostered my understanding of Artificial Intelligence. 
-
 My warmest thanks go to **the consulting team at my company**, who have given me many opportunities in data and AI projects and helped me discover my passion for them. 
-
 My acknowledgements would not be complete without thanking **my family members** and **close friends**, who have supported me every day.
 
 ## Reference
 Fu, Z., Niu, X. and Yu, L., 2023, July. Wisdom of Crowds and Fine-Grained Learning for Serendipity Recommendations. In Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (pp. 739-748).
 
 ## License 
-To be written
-- X
+The raw dataset (`SerenLens_Books.csv`) is **not created by this project**. 
+It is the SerenLens dataset by Fu et al., obtained from https://github.com/zhefu2/SerenLens .
+
+- Use of the dataset is subject to the terms of the original repository. No explicit
+  license file is provided there, so please follow the original authors' conditions and
+  **cite their work** when using the data:
+
+```
+@inproceedings{fu2023wisdom,
+  author    = {Fu, Zhe and Niu, Xi(Sunshine) and Yu, Li},
+  title     = {Wisdom of Crowds and Fine-Grained Learning for Serendipity Recommendations},
+  booktitle = {Proceedings of the 46th International ACM SIGIR Conference on Research and
+               Development in Information Retrieval},
+  pages     = {739--748},
+  year      = {2023},
+  series    = {SIGIR '23}
+}
+```
