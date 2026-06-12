@@ -6,6 +6,7 @@ However, most studies in this field have not addressed the creation of datasets 
 This independent project aims to critically evaluate an **SVM with TF-IDF** and a **CNN with Word2Vec** for detecting serendipity experiences in online user reviews.
 
 ## File Structure
+```
 artefact/
 ├── README.md
 ├── requirements.txt
@@ -53,6 +54,7 @@ artefact/
 ├── cnn_confusion_matrix.png
 ├── ablation_svm_ngram.png
 └── ablation_cnn_filter.png
+```
 
 ## Setup (How to Run)
 These notebooks are written for **Google Colab** with the project stored on **Google Drive**.
